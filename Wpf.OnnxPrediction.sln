@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf.OnnxPrediction", "Wpf.OnnxPrediction\Wpf.OnnxPrediction.csproj", "{80CDF904-6782-4767-93AD-E59CE4D597C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf.BindableBase", "Wpf.BindableBase\Wpf.BindableBase.csproj", "{8835F385-BC43-424A-935D-30C9F25F8ED9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80CDF904-6782-4767-93AD-E59CE4D597C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CDF904-6782-4767-93AD-E59CE4D597C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CDF904-6782-4767-93AD-E59CE4D597C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CDF904-6782-4767-93AD-E59CE4D597C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8835F385-BC43-424A-935D-30C9F25F8ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8835F385-BC43-424A-935D-30C9F25F8ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8835F385-BC43-424A-935D-30C9F25F8ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8835F385-BC43-424A-935D-30C9F25F8ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3C1529F-271D-4309-969C-785FAC1E84E2}
+	EndGlobalSection
+EndGlobal
